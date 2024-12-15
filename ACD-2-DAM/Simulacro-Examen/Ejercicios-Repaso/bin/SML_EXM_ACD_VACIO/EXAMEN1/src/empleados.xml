@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><empleados xmlns="empleados.xml"><empleado><id>101</id><nombre>Juan Pérez</nombre><salario>2500.5</salario></empleado><empleado><id>102</id><nombre>Ana Gómez</nombre><salario>3000.75</salario></empleado><empleado><id>103</id><nombre>Carlos Ruiz</nombre><salario>1800.0</salario></empleado></empleados>

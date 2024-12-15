@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<peliculas xmlns="peliculas.xml">
+    <Peliculas>
+        <Titulo>EL PASEO</Titulo>
+        <Año>2014</Año>
+        <Director>MERCEDEZ OCHOA</Director>
+        <Categoria>COMEDIA</Categoria>
+    </Peliculas>
+</peliculas>

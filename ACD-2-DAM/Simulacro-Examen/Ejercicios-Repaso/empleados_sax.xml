@@ -1,0 +1,17 @@
+<Empleados>
+	<Empleado>
+		<id>101</id>
+		<nombre>Juan Pérez</nombre>
+		<salario>2500.5</salario>
+	</Empleado>
+	<Empleado>
+		<id>102</id>
+		<nombre>Ana Gómez</nombre>
+		<salario>3000.75</salario>
+	</Empleado>
+	<Empleado>
+		<id>103</id>
+		<nombre>Carlos Ruiz</nombre>
+		<salario>1800.0</salario>
+	</Empleado>
+</Empleados>
